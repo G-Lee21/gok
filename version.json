@@ -1,9 +1,9 @@
 {
-  "latest": "0.0.0",
+  "latest": "1.0.0",
   "download": "https://github.com/G-Lee21/gok/releases/latest",
   "notes": {
-    "th": "",
-    "en": ""
+    "th": "เปิดตัวรุ่น 1.0.0: เข้าหน้าหลักทันทีไร้ล็อกอิน คลังฉาก 52 ธีมในเครื่อง ปั้นฉากเอง และแผงขายของสด CF",
+    "en": "Initial 1.0.0 release: Direct home entry with no login, 52 offline stage themes, Custom Theme Studio & CF Live Shop"
   },
   "announcement": {
     "th": "",
