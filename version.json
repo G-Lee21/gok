@@ -1,9 +1,9 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.1.0",
   "download": "https://github.com/G-Lee21/gok/releases/latest",
   "notes": {
-    "th": "เปิดตัวรุ่น 1.0.0: เข้าหน้าหลักทันทีไร้ล็อกอิน คลังฉาก 52 ธีมในเครื่อง ปั้นฉากเอง และแผงขายของสด CF",
-    "en": "Initial 1.0.0 release: Direct home entry with no login, 52 offline stage themes, Custom Theme Studio & CF Live Shop"
+    "th": "รุ่น 1.1.0: ห้องควบคุมไลฟ์ กล้องซูมหาคนส่งของขวัญ ฉากใหม่ 5 ฉาก + ส่องก่อนเลือก ดนตรีสังเคราะห์ 17 สไตล์ ช่องรับเหตุการณ์จากโปรแกรมอื่น และล็อกอิน Google สำรองขึ้นคลาวด์ (ไม่บังคับ)",
+    "en": "Version 1.1.0: Live Control Room, gift-sender camera zoom, 5 new stages with preview, 17 synth music styles, local event channel, and optional Google sign-in for cloud backup"
   },
   "announcement": {
     "th": "",
