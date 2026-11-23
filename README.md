@@ -1,3 +1,6 @@
+> **ย้ายไปแล้ว · ดาวน์โหลดรุ่นใหม่ที่ [github.com/G-Lee21/glee-download](https://github.com/G-Lee21/glee-download)**  
+> **Moved · Download the latest version at [github.com/G-Lee21/glee-download](https://github.com/G-Lee21/glee-download)**
+
 # ก็อกมาเย้ย (Gok Ma Yoey) — เวทีไลฟ์สายปั่น คนดูมันส์ยกห้อง
 
 [![Download Latest Release](https://img.shields.io/badge/Download-v1.0.0-FF7A1A?style=for-the-badge)](https://github.com/G-Lee21/gok/releases/latest)
@@ -31,4 +34,3 @@
 2. On first launch, if Windows SmartScreen appears, click **More info** → **Run anyway**.
 
 ### Contact & Issue Reports
-- Support Email: `apaimanee666@gmail.com`
